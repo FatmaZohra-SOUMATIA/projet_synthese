@@ -1,2 +1,2 @@
 # projet_synthese
-Projet de synthese
+Projet de synthèse
